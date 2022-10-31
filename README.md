@@ -1,8 +1,10 @@
 # KD-TREE
 Implementação de árvore KD-TREE usando a linguagem C
 
-Projeto bimestral universitário realizando na linguagem C/C++, simulando o funcionamento de uma árvore KDTREE. Contendo dentre outras coisas:
+Projeto bimestral universitário realizando na linguagem C/C++, simulando o funcionamento de uma árvore KDTREE.
 
--Ordenação
--Exibição
--Distância Euclidiana
+- Algumas funções:
+
+  - Ordenação
+  - Exibição
+  - Distância Euclidiana
